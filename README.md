@@ -1,1 +1,1 @@
-# clone-article-preview-component
+# Fatando criar a responsividade do share.
